@@ -1,28 +1,28 @@
 Country,Number
-Mexico,"553,200"
-El Salvador,"26,160"
-Guatemala,"17,920"
-Honduras,"16,420"
-Peru,"7,220"
-"Korea, South","7,150"
-Brazil,"5,730"
-Ecuador,"5,360"
-Colombia,"4,910"
-Argentina,"3,880"
-Philippines,"3,800"
-India,"2,570"
-Jamaica,"2,530"
-Venezuela,"2,420"
-Dominican Republic,"2,310"
-Uruguay,"1,930"
-Trinidad And Tobago,"1,850"
-Bolivia,"1,660"
-Costa Rica,"1,570"
-Chile,"1,390"
-Poland,"1,380"
-Nicaragua,"1,370"
-Pakistan,"1,310"
-Nigeria,"1,010"
+Mexico,553200
+El Salvador,26160
+Guatemala,17920
+Honduras,16420
+Peru,7220
+"Korea, South",7150
+Brazil,5730
+Ecuador,5360
+Colombia,4910
+Argentina,3880
+Philippines,3800
+India,2570
+Jamaica,2530
+Venezuela,2420
+Dominican Republic,2310
+Uruguay,1930
+Trinidad And Tobago,1850
+Bolivia,1660
+Costa Rica,1570
+Chile,1390
+Poland,1380
+Nicaragua,1370
+Pakistan,1310
+Nigeria,1010
 Guyana,960
 Belize,830
 Canada,730
@@ -154,56 +154,56 @@ Guadeloupe,10
 Iraq,10
 Moldova,10
 Niger,10
-Macau,D
-Namibia,D
-Kyrgyzstan,D
-Madagascar,D
-Norway,D
-Somalia,D
-Cyprus,D
-Lesotho,D
-Slovenia,D
-Aruba,D
-Bosnia And Herzegovina,D
-Central African Republic,D
-Mauritius,D
-Rwanda,D
-Brunei,D
-Chad,D
-Luxembourg,D
-Tunisia,D
-Cuba,D
-Mozambique,D
-Sudan,D
-Tuvalu,D
-Bhutan,D
-Eritrea,D
-Marshall Islands,D
-Mauritania,D
-"Micronesia, Federated States Of",D
-Palau,D
-Tajikistan,D
-Turkmenistan,D
-Zaire,D
-Anguilla,D
-British Virgin Islands,D
-Burma,D
-"Germany, West",D
-Guinea-Bissau,D
-Malta,D
-Mayotte,D
-Papua New Guinea,D
-Swaziland,D
-Andorra,D
-Equatorial Guinea,D
-Finland,D
-French Polynesia,D
-Iceland,D
-Kiribati,D
-"Korea, North",D
-Martinique,D
-Monaco,D
-New Caledonia,D
-Palestine,D
-St. Vincent-Grenadines,D
-Not available,"1,380"
+Macau,0
+Namibia,0
+Kyrgyzstan,0
+Madagascar,0
+Norway,0
+Somalia,0
+Cyprus,0
+Lesotho,0
+Slovenia,0
+Aruba,0
+Bosnia And Herzegovina,0
+Central African Republic,0
+Mauritius,0
+Rwanda,0
+Brunei,0
+Chad,0
+Luxembourg,0
+Tunisia,0
+Cuba,0
+Mozambique,0
+Sudan,0
+Tuvalu,0
+Bhutan,0
+Eritrea,0
+Marshall Islands,0
+Mauritania,0
+"Micronesia, Federated States Of",0
+Palau,0
+Tajikistan,0
+Turkmenistan,0
+Zaire,0
+Anguilla,0
+British Virgin Islands,0
+Burma,0
+"Germany, West",0
+Guinea-Bissau,0
+Malta,0
+Mayotte,0
+Papua New Guinea,0
+Swaziland,0
+Andorra,0
+Equatorial Guinea,0
+Finland,0
+French Polynesia,0
+Iceland,0
+Kiribati,0
+"Korea, North",0
+Martinique,0
+Monaco,0
+New Caledonia,0
+Palestine,0
+St. Vincent-Grenadines,0
+Not available,1380

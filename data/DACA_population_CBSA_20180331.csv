@@ -1,91 +1,91 @@
 CBSA,Number
-"Los Angeles-Long Beach-Anaheim, CA","88,180"
-"New York-Newark-Jersey City, NY-NJ-PA","46,370"
-"Dallas-Fort Worth-Arlington, TX","37,290"
-"Chicago-Naperville-Elgin, IL-IN-WI","35,030"
-"Houston-The Woodlands-Sugar Land, TX","34,920"
-"Riverside-San Bernardino-Ontario, CA","23,950"
-"Phoenix-Mesa-Scottsdale, AZ","22,370"
-"Atlanta-Sandy Springs-Roswell, GA","15,430"
-"San Francisco-Oakland-Hayward, CA","14,930"
-"Washington-Arlington-Alexandria, DC-VA-MD-WV","13,320"
-"San Diego-Carlsbad, CA","11,340"
-"Miami-Fort Lauderdale-West Palm Beach, FL","10,840"
-"Las Vegas-Henderson-Paradise, NV","10,120"
-"Denver-Aurora-Lakewood, CO","9,920"
-"San Jose-Sunnyvale-Santa Clara, CA","9,360"
-"McAllen-Edinburg-Mission, TX","7,630"
-"Austin-Round Rock, TX","7,570"
-"Seattle-Tacoma-Bellevue, WA","7,550"
-"Portland-Vancouver-Hillsboro, OR-WA","6,010"
-"Charlotte-Concord-Gastonia, NC-SC","5,990"
-"Sacramento--Roseville--Arden-Arcade, CA","5,900"
-"San Antonio-New Braunfels, TX","5,420"
-"Fresno, CA","5,200"
-"Bakersfield, CA","5,150"
-"Salt Lake City, UT","4,840"
-"Boston-Cambridge-Newton, MA-NH","4,600"
-"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","4,600"
-"Minneapolis-St. Paul-Bloomington, MN-WI","4,410"
-"Oxnard-Thousand Oaks-Ventura, CA","4,130"
-"Indianapolis-Carmel-Anderson, IN","4,060"
-"Raleigh, NC","3,800"
-"Visalia-Porterville, CA","3,700"
-"Kansas City, MO-KS","3,690"
-"Stockton-Lodi, CA","3,560"
-"Nashville-Davidson--Murfreesboro--Franklin, TN","3,370"
-"Tampa-St. Petersburg-Clearwater, FL","3,230"
-"Santa Maria-Santa Barbara, CA","3,150"
-"Salinas, CA","3,100"
-"Modesto, CA","3,040"
-"Oklahoma City, OK","2,950"
-"Albuquerque, NM","2,890"
-"Orlando-Kissimmee-Sanford, FL","2,850"
-"Milwaukee-Waukesha-West Allis, WI","2,810"
-"Santa Rosa, CA","2,600"
-"Detroit-Warren-Dearborn, MI","2,410"
-"Winston-Salem, NC","2,320"
-"Brownsville-Harlingen, TX","2,270"
-"Baltimore-Columbia-Towson, MD","2,240"
-"Tucson, AZ","2,210"
-"Salem, OR","2,170"
-"Yakima, WA","2,100"
-"Greensboro-High Point, NC","2,050"
-"Bridgeport-Stamford-Norwalk, CT","2,050"
-"Tulsa, OK","1,960"
-"Merced, CA","1,920"
-"Kennewick-Richland, WA","1,910"
-"Durham-Chapel Hill, NC","1,900"
-"Memphis, TN-MS-AR","1,890"
-"Columbus, OH","1,870"
-"Fayetteville-Springdale-Rogers, AR-MO","1,800"
-"Reno, NV","1,740"
-"El Paso, TX","1,730"
-"Provo-Orem, UT","1,720"
-"Vallejo-Fairfield, CA","1,580"
-"North Port-Sarasota-Bradenton, FL","1,580"
-"Omaha-Council Bluffs, NE-IA","1,530"
-"Cape Coral-Fort Myers, FL","1,520"
-"Grand Rapids-Wyoming, MI","1,480"
-"Birmingham-Hoover, AL","1,430"
-"Santa Cruz-Watsonville, CA","1,410"
-"Gainesville, GA","1,410"
-"Greenville-Anderson-Mauldin, SC","1,390"
-"Ogden-Clearfield, UT","1,370"
-"Laredo, TX","1,340"
-"Providence-Warwick, RI-MA","1,320"
-"Wichita, KS","1,280"
-"Boise City, ID","1,220"
-"Lakeland-Winter Haven, FL","1,210"
-"Elkhart-Goshen, IN","1,200"
-"Naples-Immokalee-Marco Island, FL","1,140"
-"Richmond, VA","1,140"
-"Louisville/Jefferson County, KY-IN","1,070"
-"New Haven-Milford, CT","1,060"
-"Des Moines-West Des Moines, IA","1,030"
-"Madera, CA","1,020"
-"Greeley, CO","1,020"
-"Cincinnati, OH-KY-IN","1,010"
-Other CBSA,"96,780"
-Non CBSA,"15,660"
-Not available,"1,230"
+"Los Angeles-Long Beach-Anaheim, CA",88180
+"New York-Newark-Jersey City, NY-NJ-PA",46370
+"Dallas-Fort Worth-Arlington, TX",37290
+"Chicago-Naperville-Elgin, IL-IN-WI",35030
+"Houston-The Woodlands-Sugar Land, TX",34920
+"Riverside-San Bernardino-Ontario, CA",23950
+"Phoenix-Mesa-Scottsdale, AZ",22370
+"Atlanta-Sandy Springs-Roswell, GA",15430
+"San Francisco-Oakland-Hayward, CA",14930
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",13320
+"San Diego-Carlsbad, CA",11340
+"Miami-Fort Lauderdale-West Palm Beach, FL",10840
+"Las Vegas-Henderson-Paradise, NV",10120
+"Denver-Aurora-Lakewood, CO",9920
+"San Jose-Sunnyvale-Santa Clara, CA",9360
+"McAllen-Edinburg-Mission, TX",7630
+"Austin-Round Rock, TX",7570
+"Seattle-Tacoma-Bellevue, WA",7550
+"Portland-Vancouver-Hillsboro, OR-WA",6010
+"Charlotte-Concord-Gastonia, NC-SC",5990
+"Sacramento--Roseville--Arden-Arcade, CA",5900
+"San Antonio-New Braunfels, TX",5420
+"Fresno, CA",5200
+"Bakersfield, CA",5150
+"Salt Lake City, UT",4840
+"Boston-Cambridge-Newton, MA-NH",4600
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4600
+"Minneapolis-St. Paul-Bloomington, MN-WI",4410
+"Oxnard-Thousand Oaks-Ventura, CA",4130
+"Indianapolis-Carmel-Anderson, IN",4060
+"Raleigh, NC",3800
+"Visalia-Porterville, CA",3700
+"Kansas City, MO-KS",3690
+"Stockton-Lodi, CA",3560
+"Nashville-Davidson--Murfreesboro--Franklin, TN",3370
+"Tampa-St. Petersburg-Clearwater, FL",3230
+"Santa Maria-Santa Barbara, CA",3150
+"Salinas, CA",3100
+"Modesto, CA",3040
+"Oklahoma City, OK",2950
+"Albuquerque, NM",2890
+"Orlando-Kissimmee-Sanford, FL",2850
+"Milwaukee-Waukesha-West Allis, WI",2810
+"Santa Rosa, CA",2600
+"Detroit-Warren-Dearborn, MI",2410
+"Winston-Salem, NC",2320
+"Brownsville-Harlingen, TX",2270
+"Baltimore-Columbia-Towson, MD",2240
+"Tucson, AZ",2210
+"Salem, OR",2170
+"Yakima, WA",2100
+"Greensboro-High Point, NC",2050
+"Bridgeport-Stamford-Norwalk, CT",2050
+"Tulsa, OK",1960
+"Merced, CA",1920
+"Kennewick-Richland, WA",1910
+"Durham-Chapel Hill, NC",1900
+"Memphis, TN-MS-AR",1890
+"Columbus, OH",1870
+"Fayetteville-Springdale-Rogers, AR-MO",1800
+"Reno, NV",1740
+"El Paso, TX",1730
+"Provo-Orem, UT",1720
+"Vallejo-Fairfield, CA",1580
+"North Port-Sarasota-Bradenton, FL",1580
+"Omaha-Council Bluffs, NE-IA",1530
+"Cape Coral-Fort Myers, FL",1520
+"Grand Rapids-Wyoming, MI",1480
+"Birmingham-Hoover, AL",1430
+"Santa Cruz-Watsonville, CA",1410
+"Gainesville, GA",1410
+"Greenville-Anderson-Mauldin, SC",1390
+"Ogden-Clearfield, UT",1370
+"Laredo, TX",1340
+"Providence-Warwick, RI-MA",1320
+"Wichita, KS",1280
+"Boise City, ID",1220
+"Lakeland-Winter Haven, FL",1210
+"Elkhart-Goshen, IN",1200
+"Naples-Immokalee-Marco Island, FL",1140
+"Richmond, VA",1140
+"Louisville/Jefferson County, KY-IN",1070
+"New Haven-Milford, CT",1060
+"Des Moines-West Des Moines, IA",1030
+"Madera, CA",1020
+"Greeley, CO",1020
+"Cincinnati, OH-KY-IN",1010
+Other CBSA,96780
+Non CBSA,15660
+Not available,1230

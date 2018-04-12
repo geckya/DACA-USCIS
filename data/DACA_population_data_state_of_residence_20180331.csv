@@ -1,43 +1,43 @@
 State/Territory,Number
-California,"199,230"
-Texas,"113,960"
-Illinois,"36,740"
-New York,"31,880"
-Florida,"26,900"
-Arizona,"25,970"
-North Carolina,"25,380"
-Georgia,"21,880"
-New Jersey,"17,890"
-Washington,"16,880"
-Colorado,"15,680"
-Nevada,"12,640"
-Oregon,"10,320"
-Virginia,"10,320"
-Indiana,"9,400"
-Utah,"9,040"
-Maryland,"8,450"
-Tennessee,"8,020"
-Wisconsin,"6,970"
-Oklahoma,"6,480"
-New Mexico,"6,220"
-Kansas,"6,050"
-South Carolina,"6,010"
-Massachusetts,"5,970"
-Minnesota,"5,630"
-Michigan,"5,560"
-Pennsylvania,"4,790"
-Arkansas,"4,740"
-Alabama,"4,120"
-Ohio,"3,990"
-Connecticut,"3,960"
-Missouri,"3,160"
-Nebraska,"3,110"
-Idaho,"2,890"
-Kentucky,"2,840"
-Iowa,"2,580"
-Louisiana,"1,870"
-Mississippi,"1,410"
-Delaware,"1,350"
+California,199230
+Texas,113960
+Illinois,36740
+New York,31880
+Florida,26900
+Arizona,25970
+North Carolina,25380
+Georgia,21880
+New Jersey,17890
+Washington,16880
+Colorado,15680
+Nevada,12640
+Oregon,10320
+Virginia,10320
+Indiana,9400
+Utah,9040
+Maryland,8450
+Tennessee,8020
+Wisconsin,6970
+Oklahoma,6480
+New Mexico,6220
+Kansas,6050
+South Carolina,6010
+Massachusetts,5970
+Minnesota,5630
+Michigan,5560
+Pennsylvania,4790
+Arkansas,4740
+Alabama,4120
+Ohio,3990
+Connecticut,3960
+Missouri,3160
+Nebraska,3110
+Idaho,2890
+Kentucky,2840
+Iowa,2580
+Louisiana,1870
+Mississippi,1410
+Delaware,1350
 Rhode Island,960
 District Of Columbia,640
 Wyoming,550
@@ -53,9 +53,9 @@ Maine,40
 Virgin Islands,40
 Guam,20
 Vermont,20
-Northern Mariana Islands,D
-Armed Forces Americas (except Canada),D
-Armed Forces Pacific,D
-American Samoa,D
-"Armed Forces Africa, Canada, Europe, Middle East",D
-Federated States Of Micronesia,D
+Northern Mariana Islands,0
+Armed Forces Americas (except Canada),0
+Armed Forces Pacific,0
+American Samoa,0
+"Armed Forces Africa, Canada, Europe, Middle East",0
+Federated States Of Micronesia,0
